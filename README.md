@@ -9,3 +9,7 @@ My solutions to the AoC 2020 puzzles, at least to some of them...
 ### 01
 
 The solution to that puzzle is written in Go.
+
+### 02
+
+The solution to that puzzle in written in Go.
