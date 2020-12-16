@@ -5,12 +5,9 @@ import (
 	"fmt"
 	"log"
 	"os"
-	"regexp"
 )
 
 const inputFile = "input.txt"
-
-var re = regexp.MustCompile(`(?m)(\d*)-(\d*) (.): (.*)`)
 
 type geology struct {
 	treeMap          [][]bool // true: tree, false: no tree, periodic boundary conditions in x direction
