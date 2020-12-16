@@ -25,3 +25,8 @@ The solution to that puzzle in written in Go.
 ### 05
 
 The solution to that puzzle in written in Go.
+
+### 06
+
+The solution to that puzzle in written in Go.
+
